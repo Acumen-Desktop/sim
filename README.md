@@ -178,7 +178,7 @@ Copilot is a Sim-managed service. To use Copilot on a self-hosted instance:
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](.github/CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guide](.github/CONTRIBUTING.md) and the repository [Repository Guidelines](AGENTS.md) for day-to-day workflows.
 
 ## License
 
