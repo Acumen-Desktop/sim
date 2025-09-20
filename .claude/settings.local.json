@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(eza:*)",
+      "mcp__deepwiki__ask_question",
+      "Bash(grep:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
